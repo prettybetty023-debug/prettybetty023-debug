@@ -75,14 +75,14 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/iternship1.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/iternship1.png)
+[<img src="/iternship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/iternship1.png)
+[<img src="/iternship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/iternship1.png)
 
 <br>
 
 ## 🎒 Образование
 
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
+[<img src="/certificateQA.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
 
 <br>
 <br>
