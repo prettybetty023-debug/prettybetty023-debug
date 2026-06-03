@@ -75,19 +75,18 @@
 <br>
 
 ## 🪴 Практика и стажировка
+<br>
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">]
 (https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/iternship1.png)
 [<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">]
 (https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/iternship1.png)
-
-<br>
+</br>
 
 ## 🎒 Образование
+<br>
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">]
 (https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
-
-<br>
-<br>
+</br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
