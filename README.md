@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
   <img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" title="DBeaver" alt="DBeaver" width="80" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" title="redis" alt="redis" width="80" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp
 </div>
 
 ## Автотесты
