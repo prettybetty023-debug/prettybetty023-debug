@@ -75,7 +75,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/iternship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/iternship1.png)
+[<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
 [<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
 
 <br>
