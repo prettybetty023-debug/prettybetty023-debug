@@ -28,9 +28,9 @@
 - 🔗REST и SOAP (15 ч)
 - 📊Работа с логами (6 ч)
 
-- 🎓 **Стажировка (суммарно 112 ч)**
+- **Стажировка (суммарно 112 ч)**
 
-## 🪴 Практика и стажировка
+## 🌿 Практика и стажировка
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
 [<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
 
