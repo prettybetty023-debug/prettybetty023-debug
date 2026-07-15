@@ -1,5 +1,5 @@
 # 👋 Привет!
-## **Меня зовут Лиза, я QA Engineer😊**
+**Меня зовут Лиза, я QA Engineer😊**
 
 [![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](file:///C:/Users/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0/Downloads/cv_studio-main/cv_studio-main/one-page%20website.html)
 [![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/msdvibe)
