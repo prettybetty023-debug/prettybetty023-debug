@@ -14,6 +14,7 @@
 часов**
 
 [<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
+
 [<img src="/certificateQA2.png" width="280px" hspace="10px" alt="certificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/CertificateQA2.png)
 
 **Пройденные модули:**
