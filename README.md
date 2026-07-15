@@ -5,7 +5,6 @@
 [![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.github.io/one-page-website/)
 [![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/msdvibe)
 [![Email](https://img.shields.io/badge/Почта-EA4335?style=flat&logo=gmail)](mailto:prettybetty023@yandex.ru)
-
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=prettybetty023-debug)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=prettybetty023-debug)
 
@@ -15,7 +14,6 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=modern-lilac&username=prettybetty023-debug)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
-
 🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 🔴 Redis | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text | 📱 Мобильное тестирование | 🤖 Android Studio | 🔧 ADB | 🔥 Firebase | 🕵️ Jaeger | 🐧 Linux | 🔀 Git | 🗂️ TMS
 
 ## 📜 Обучение
