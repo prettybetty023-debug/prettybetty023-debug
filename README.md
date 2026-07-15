@@ -4,7 +4,7 @@
 
 [![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.github.io/one-page-website/)
 [![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/msdvibe)
-[![Email](https://img.shields.io/badge/-Почта-EA4335?style=flat&logo=gmail)](mailto:prettybetty023@yandex.ru)
+[![Email](https://img.shields.io/badge/Почта-EA4335?style=flat&logo=gmail)](mailto:prettybetty023@yandex.ru)
 
 🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 🔴 Redis | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text | 📱 Мобильное тестирование | 🤖 Android Studio | 🔧 ADB | 🔥 Firebase | 🕵️ Jaeger | 🐧 Linux | 🔀 Git | 🗂️ TMS
 
