@@ -14,7 +14,7 @@
 часов**
 
 [<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
-[<img src="/certificateQA2.png" width="280px" hspace="10px" alt="certificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA2.png)
+[<img src="/certificateQA2.png" width="280px" hspace="10px" alt="certificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/CertificateQA2.png)
 
 **Пройденные модули:**
 - 🏗️ Клиент-серверная архитектура (15 ч)
@@ -28,16 +28,6 @@
 - 🔗REST и SOAP (15 ч)
 - 📊Работа с логами (6 ч)
 
-**Дополнительные модули:**
-- 📱Тестирование мобильных приложений (16 ч)
-- 🐧 Командная строка Linux (12 ч)
-- 🔀 Система управления версиями Git (10 ч)
-- 🐳 Работа с Docker (10 ч)
-- 🌐 Автотесты JavaScript + Cypress + Page object (12 ч)
-- 🐍 Автотесты Python + Requests + Pytest (12 ч)
-- 📋 Организация тест-кейсов в TMS (10 ч)
-- 🔄 CI/CD и тестовое окружение (13 ч)
-- 📨 Брокер сообщений Apache Kafka (7 ч)
 - 🎓 **Стажировка (суммарно 112 ч)**
 
 ## 🪴 Практика и стажировка
