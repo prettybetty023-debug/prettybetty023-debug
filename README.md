@@ -3,8 +3,6 @@
  **Меня зовут Лиза, я QA Engineer😊**
 
 [![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.github.io/one-page-website/)
-[![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/msdvibe)
-[![Email](https://img.shields.io/badge/Почта-EA4335?style=flat&logo=gmail)](mailto:prettybetty023@yandex.ru)
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=prettybetty023-debug)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=prettybetty023-debug)
 
