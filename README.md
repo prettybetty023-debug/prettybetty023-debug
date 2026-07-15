@@ -2,7 +2,7 @@
 
  **Меня зовут Лиза, я QA Engineer😊**
 
-[![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.one-page-website)
+[![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.github.io/one-page-website/)
 [![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/msdvibe)
 [![Email](https://img.shields.io/badge/📧-Почта-EA4335?style=flat&logo=gmail)](mailto:prettybetty023@yandex.ru)
 
