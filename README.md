@@ -17,48 +17,48 @@
 часов**
 
 [Сертификат](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
+[<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
 
 Пройденные модули:
-🏗️ Клиент-серверная архитектура (15 ч)
-- Изучила клиент-серверную архитектуру, протоколы HTTP/HTTPS, а также технологии
+-🏗️ Клиент-серверная архитектура (15 ч)
+Изучила клиент-серверную архитектуру, протоколы HTTP/HTTPS, а также технологии
 GraphQL, gRPC, WebSocket, Webhook
-🌐Тестирование веб-приложений (12 ч)
-- Тестировала веб-приложения в рамках обучения, под руководством ментора, с
+-🌐Тестирование веб-приложений (12 ч)
+Тестировала веб-приложения в рамках обучения, под руководством ментора, с
 использованием DevTools
-⚙️Backend-тестирование (18 ч)
-- Тестировала REST и SOAP API с использованием Postman, SOAP UI и DevTools
-- Работала с переменными окружения, коллекциями, Pre-request Scripts и Tests в Postman для
+-⚙️Backend-тестирование (18 ч)
+Тестировала REST и SOAP API с использованием Postman, SOAP UI и DevTools
+Работала с переменными окружения, коллекциями, Pre-request Scripts и Tests в Postman для
 автоматизации выполнения и проверки API-запросов
-📡Снифферы и отладка прокси (10 ч)
-- Работала с Charles Proxy для перехвата и анализа HTTP/HTTPS-трафика
-🧪Виды тестирования и техники тест-дизайна (10 ч)
-- Освоила техники тест-дизайна и различные виды тестирования
-📝Тестовая документация (22 ч)
-- Составляла тест-кейсы, чек-листы, баг-репорты и отчеты по тестированию
-- Ежедневная работа в Яндекс.Трекере
-🗄️SQL и работа с базами данных (15 ч)
-- Составляла SQL- и NoSQL-запросы средней сложности (PostgreSQL, MongoDB, Redis)
-🧱Основы HTML и CSS (16 ч)
-- Изучила основы структуры веб-страниц и стилизации интерфейсов
-🔗REST и SOAP (15 ч)
-- Тестировала REST и SOAP API с использованием Postman, SOAP UI и DevTools
-📊Работа с логами (6 ч)
-- Анализ логов с помощью Sentry, Kibana, Grafana. Изучение метрик тестирования
-- Просмотр логов в реальном времени через SSH (tail -f) и Docker (docker logs -f)
-- Тестирование мобильных приложений (пуш-уведомления, дебажная сборка, диплинки,
+-📡Снифферы и отладка прокси (10 ч)
+Работала с Charles Proxy для перехвата и анализа HTTP/HTTPS-трафика
+-🧪Виды тестирования и техники тест-дизайна (10 ч)
+Освоила техники тест-дизайна и различные виды тестирования
+-📝Тестовая документация (22 ч)
+Составляла тест-кейсы, чек-листы, баг-репорты и отчеты по тестированию
+Ежедневная работа в Яндекс.Трекере
+-🗄️SQL и работа с базами данных (15 ч)
+Составляла SQL- и NoSQL-запросы средней сложности (PostgreSQL, MongoDB, Redis)
+-🧱Основы HTML и CSS (16 ч)
+Изучила основы структуры веб-страниц и стилизации интерфейсов
+-🔗REST и SOAP (15 ч)
+Тестировала REST и SOAP API с использованием Postman, SOAP UI и DevTools
+-📊Работа с логами (6 ч)
+Анализ логов с помощью Sentry, Kibana, Grafana. Изучение метрик тестирования
+Просмотр логов в реальном времени через SSH (tail -f) и Docker (docker logs -f)
+-📱Тестирование мобильных приложений (пуш-уведомления, дебажная сборка, диплинки,
 Firebase)
 
 Дополнительные модули:
-📱 Тестирование мобильных приложений (16 ч)
-🐧 Командная строка Linux (12 ч)
-🔀 Система управления версиями Git (10 ч)
-🐳 Работа с Docker (10 ч)
-🌐 Автотесты JavaScript + Cypress + Page object (12 ч)
-🐍 Автотесты Python + Requests + Pytest (12 ч)
-📋 Организация тест-кейсов в TMS (10 ч)
-🔄 CI/CD и тестовое окружение (13 ч)
-📨 Брокер сообщений Apache Kafka (7 ч)
-🎓 Стажировка (суммарно 112 ч)
+-🐧 Командная строка Linux (12 ч)
+-🔀 Система управления версиями Git (10 ч)
+-🐳 Работа с Docker (10 ч)
+-🌐 Автотесты JavaScript + Cypress + Page object (12 ч)
+-🐍 Автотесты Python + Requests + Pytest (12 ч)
+-📋 Организация тест-кейсов в TMS (10 ч)
+-🔄 CI/CD и тестовое окружение (13 ч)
+-📨 Брокер сообщений Apache Kafka (7 ч)
+-🎓 **Стажировка (суммарно 112 ч)**
 
 ## 🪴 Практика и стажировка
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
@@ -89,9 +89,9 @@ Telegram-бот для проверки и форматирования JSON. П
 ---
 
 ## 📞 Связаться со мной
-[![Telegram](https://img.shields.io/badge/Telegram-@IvanD_QA-blue?style=for-the-badge&logo=telegram)](https://t.me/msdvibe)
-[![Email](https://img.shields.io/badge/Email-deputatovivan272%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prettybetty023@yandex.ru)
-[![Телефон](https://img.shields.io)](tel:+79773192734)
+[![Telegram](https://img.shields.io/badge/Telegram-@msdvibe-blue?style=for-the-badge&logo=telegram)](https://t.me/msdvibe)
+[![Email](https://img.shields.io/badge/Email-prettybetty023@yandex.ru-red?style=for-the-badge&logo=gmail)](mailto:prettybetty023@yandex.ru)
+[![Телефон](https://img.shields.io/badge/+7(977)319-27-34-green?style=for-the-badge&logo=phone)](tel:+79773192734)
 
 ## Тестирование API и интеграций
 <div>
