@@ -1,5 +1,4 @@
-# 👋 Привет! Я Лиза - QA инженер😊**
-
+# 👋 Привет! Я Лиза - QA инженер😊
 [![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.github.io/one-page-website/)
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=prettybetty023-debug)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=prettybetty023-debug)
