@@ -5,6 +5,7 @@
 [![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](file:///C:/Users/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0/Downloads/cv_studio-main/cv_studio-main/one-page%20website.html)
 [![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/msdvibe)
 [![Email](https://img.shields.io/badge/📧-Почта-EA4335?style=flat&logo=gmail)](mailto:prettybetty023@yandex.ru)
+
 ---
 
 🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 🔴 Redis | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text | 📱 Мобильное тестирование | 🤖 Android Studio | 🔧 ADB | 🔥 Firebase | 🕵️ Jaeger | 🐧 Linux | 🔀 Git | 🗂️ TMS
@@ -14,49 +15,48 @@
 **Прошла обучение в QA Studio по программе "Инженер по тестированию" в объеме 139
 часов**
 
-[Сертификат](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
 [<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
 
 Пройденные модули:
--🏗️ Клиент-серверная архитектура (15 ч)
+- 🏗️ Клиент-серверная архитектура (15 ч)
 Изучила клиент-серверную архитектуру, протоколы HTTP/HTTPS, а также технологии
 GraphQL, gRPC, WebSocket, Webhook
--🌐Тестирование веб-приложений (12 ч)
+- 🌐Тестирование веб-приложений (12 ч)
 Тестировала веб-приложения в рамках обучения, под руководством ментора, с
 использованием DevTools
--⚙️Backend-тестирование (18 ч)
+- ⚙️Backend-тестирование (18 ч)
 Тестировала REST и SOAP API с использованием Postman, SOAP UI и DevTools
 Работала с переменными окружения, коллекциями, Pre-request Scripts и Tests в Postman для
 автоматизации выполнения и проверки API-запросов
--📡Снифферы и отладка прокси (10 ч)
+- 📡Снифферы и отладка прокси (10 ч)
 Работала с Charles Proxy для перехвата и анализа HTTP/HTTPS-трафика
--🧪Виды тестирования и техники тест-дизайна (10 ч)
+- 🧪Виды тестирования и техники тест-дизайна (10 ч)
 Освоила техники тест-дизайна и различные виды тестирования
--📝Тестовая документация (22 ч)
+- 📝Тестовая документация (22 ч)
 Составляла тест-кейсы, чек-листы, баг-репорты и отчеты по тестированию
 Ежедневная работа в Яндекс.Трекере
--🗄️SQL и работа с базами данных (15 ч)
+- 🗄️SQL и работа с базами данных (15 ч)
 Составляла SQL- и NoSQL-запросы средней сложности (PostgreSQL, MongoDB, Redis)
--🧱Основы HTML и CSS (16 ч)
+- 🧱Основы HTML и CSS (16 ч)
 Изучила основы структуры веб-страниц и стилизации интерфейсов
--🔗REST и SOAP (15 ч)
+- 🔗REST и SOAP (15 ч)
 Тестировала REST и SOAP API с использованием Postman, SOAP UI и DevTools
--📊Работа с логами (6 ч)
+- 📊Работа с логами (6 ч)
 Анализ логов с помощью Sentry, Kibana, Grafana. Изучение метрик тестирования
 Просмотр логов в реальном времени через SSH (tail -f) и Docker (docker logs -f)
--📱Тестирование мобильных приложений (пуш-уведомления, дебажная сборка, диплинки,
+- 📱Тестирование мобильных приложений (пуш-уведомления, дебажная сборка, диплинки,
 Firebase)
 
 Дополнительные модули:
--🐧 Командная строка Linux (12 ч)
--🔀 Система управления версиями Git (10 ч)
--🐳 Работа с Docker (10 ч)
--🌐 Автотесты JavaScript + Cypress + Page object (12 ч)
--🐍 Автотесты Python + Requests + Pytest (12 ч)
--📋 Организация тест-кейсов в TMS (10 ч)
--🔄 CI/CD и тестовое окружение (13 ч)
--📨 Брокер сообщений Apache Kafka (7 ч)
--🎓 **Стажировка (суммарно 112 ч)**
+- 🐧 Командная строка Linux (12 ч)
+- 🔀 Система управления версиями Git (10 ч)
+- 🐳 Работа с Docker (10 ч)
+- 🌐 Автотесты JavaScript + Cypress + Page object (12 ч)
+- 🐍 Автотесты Python + Requests + Pytest (12 ч)
+- 📋 Организация тест-кейсов в TMS (10 ч)
+- 🔄 CI/CD и тестовое окружение (13 ч)
+- 📨 Брокер сообщений Apache Kafka (7 ч)
+- 🎓 **Стажировка (суммарно 112 ч)**
 
 ## 🪴 Практика и стажировка
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
