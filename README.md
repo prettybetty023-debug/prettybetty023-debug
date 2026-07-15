@@ -19,18 +19,6 @@
 [<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
 [<img src="/CertificateQA2.png" width="280px" hspace="10px" alt="CertificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/CertificateQA2.png)
 
-**Пройденные модули:**
-- Клиент-серверная архитектура (15 ч)
-- Тестирование веб-приложений (12 ч)
-- Backend-тестирование (18 ч)
-- Снифферы и отладка прокси (10 ч)
-- Виды тестирования и техники тест-дизайна (10 ч)
-- Тестовая документация (22 ч)
-- SQL и работа с базами данных (15 ч)
-- Основы HTML и CSS (16 ч)
-- REST и SOAP (15 ч)
-- Работа с логами (6 ч)
-
 ## 🌿 Практика и стажировка
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
 [<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
