@@ -107,7 +107,7 @@
 
 ---
 
-## 📞 Связаться со мной
+## 📞 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-@msdvibe-blue?style=for-the-badge&logo=telegram)](https://t.me/msdvibe)
 [![Email](https://img.shields.io/badge/Email-prettybetty023@yandex.ru-red?style=for-the-badge&logo=gmail)](mailto:prettybetty023@yandex.ru)
 [![Сайт](https://img.shields.io/badge/Визитка-github.io-6C3BFF?style=for-the-badge&logo=google-chrome)](https://prettybetty023-debug.github.io/one-page-website/)
