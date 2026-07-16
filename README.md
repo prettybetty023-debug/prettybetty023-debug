@@ -9,7 +9,6 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=modern-lilac&username=prettybetty023-debug)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
-🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 🔴 Redis | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text | 📱 Мобильное тестирование | 🤖 Android Studio | 🔧 ADB | 🔥 Firebase | 🕵️ Jaeger | 🐧 Linux | 🔀 Git | 🗂️ TMS
 
 ## 🎓 Обучение
 
