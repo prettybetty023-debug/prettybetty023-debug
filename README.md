@@ -1,5 +1,5 @@
 # 👋 Привет! Я Лиза - QA инженер😊
-[![Сайт](https://img.shields.io/badge/✉️-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.github.io/one-page-website/)
+[![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://prettybetty023-debug.github.io/one-page-website/)
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=prettybetty023-debug)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=prettybetty023-debug)
 
@@ -19,21 +19,21 @@
 [<img src="/CertificateQA2.png" width="280px" hspace="10px" alt="CertificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/CertificateQA2.png)
 
 **Дополнительные модули:**
-- 📱 Тестирование мобильных приложений (16 ч)
-- 🐧 Командная строка Linux (12 ч)
-- 🔀 Система управления версиями Git (10 ч)
-- 🐳 Работа с Docker (10 ч)
-- 🌐 Автотесты JavaScript + Cypress + Page object (12 ч)
-- 🐍 Автотесты Python + Requests + Pytest (12 ч)
-- 📋 Организация тест-кейсов в TMS (10 ч)
-- 🔄 CI/CD и тестовое окружение (13 ч)
-- 📨 Брокер сообщений Apache Kafka (7 ч)
+- Тестирование мобильных приложений (16 ч)
+- Командная строка Linux (12 ч)
+- Система управления версиями Git (10 ч)
+- Работа с Docker (10 ч)
+- Автотесты JavaScript + Cypress + Page object (12 ч)
+- Автотесты Python + Requests + Pytest (12 ч)
+- Организация тест-кейсов в TMS (10 ч)
+- CI/CD и тестовое окружение (13 ч)
+- Брокер сообщений Apache Kafka (7 ч)
 
 ## 🌿 Практика и стажировка
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
 [<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
 
-**Стажировка суммарно составила 112 часов**
+- Стажировка суммарно составила 112 часов
 
 ## 📌 Мои проекты
 
