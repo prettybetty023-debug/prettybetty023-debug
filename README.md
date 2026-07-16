@@ -3,12 +3,12 @@
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=prettybetty023-debug)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=prettybetty023-debug)
 
-🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 🔴 Redis | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text | 📱 Мобильное тестирование | 🤖 Android Studio | 🔧 ADB | 🔥 Firebase | 🕵️ Jaeger | 🐧 Linux | 🔀 Git | 🗂️ TMS
-
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=modern-lilac&username=prettybetty023-debug)
+
+🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 🔴 Redis | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text | 📱 Мобильное тестирование | 🤖 Android Studio | 🔧 ADB | 🔥 Firebase | 🕵️ Jaeger | 🐧 Linux | 🔀 Git | 🗂️ TMS
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
