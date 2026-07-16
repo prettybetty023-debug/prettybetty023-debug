@@ -10,6 +10,33 @@
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
+## 🎓 Обучение
+
+**Прошла обучение в QA Studio по программе "Инженер по тестированию" в объеме 139
+часов**
+
+[<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
+[<img src="/CertificateQA2.png" width="280px" hspace="10px" alt="CertificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/CertificateQA2.png)
+
+## 🌿 Практика и стажировка
+[<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
+[<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
+
+**Стажировка суммарно 112 ч**
+
+## 📌 Мои проекты
+
+### 🔍 [JSON Validator & Beautifier Bot]()
+
+### 🧪 [User Generator Bot]()
+
+### ✅ [Автотесты API (Python + Pytest + Requests)]()
+
+### 🌐 [Сайт-визитка QA-инженера](https://github.com/prettybetty023-debug/one-page-website)
+Персональный лендинг с контактами. Вёрстка на HTML и CSS.
+
+### 🌲 [Cypress UI Тесты]()
+
 ## Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
@@ -64,36 +91,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
-
-
-## 🎓 Обучение
-
-**Прошла обучение в QA Studio по программе "Инженер по тестированию" в объеме 139
-часов**
-
-[<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
-[<img src="/CertificateQA2.png" width="280px" hspace="10px" alt="CertificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/CertificateQA2.png)
-
-## 🌿 Практика и стажировка
-[<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
-[<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
-
-**Стажировка суммарно 112 ч**
-
-## 📌 Мои проекты
-
-### 🔍 [JSON Validator & Beautifier Bot]()
-
-### 🧪 [User Generator Bot]()
-
-### ✅ [Автотесты API (Python + Pytest + Requests)]()
-
-### 🌐 [Сайт-визитка QA-инженера](https://github.com/prettybetty023-debug/one-page-website)
-Персональный лендинг с контактами. Вёрстка на HTML и CSS.
-
-### 🌲 [Cypress UI Тесты]()
-
----
 
 ## 📞 Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-@msdvibe-blue?style=for-the-badge&logo=telegram)](https://t.me/msdvibe)
