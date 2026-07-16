@@ -11,7 +11,7 @@
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 🔴 Redis | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text | 📱 Мобильное тестирование | 🤖 Android Studio | 🔧 ADB | 🔥 Firebase | 🕵️ Jaeger | 🐧 Linux | 🔀 Git | 🗂️ TMS
 
-## 📜 Обучение
+## 🎓 Обучение
 
 **Прошла обучение в QA Studio по программе "Инженер по тестированию" в объеме 139
 часов**
@@ -23,7 +23,7 @@
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
 [<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
 
-- **Стажировка (суммарно 112 ч)**
+**Стажировка суммарно 112 ч**
 
 ## 📌 Мои проекты
 
