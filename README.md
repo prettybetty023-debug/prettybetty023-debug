@@ -37,6 +37,8 @@
 
 ### 🌲 [Cypress UI Тесты]()
 
+---
+
 ## Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
@@ -91,6 +93,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
+
+---
 
 ## 📞 Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-@msdvibe-blue?style=for-the-badge&logo=telegram)](https://t.me/msdvibe)
