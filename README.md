@@ -49,7 +49,7 @@
 ### 🌐 [Сайт-визитка QA-инженера](https://github.com/prettybetty023-debug/one-page-website)
 Персональный лендинг с контактами. Вёрстка на HTML и CSS.
 
-### 🌲 [Cypress UI Тесты]()
+### 🌲 [Cypress UI Тесты](https://github.com/prettybetty023-debug/cypress_autotests)
 Автотесты пользовательского интерфейса на JavaScript + Cypress.
 Проверка сценариев авторизации, валидации @ в логине, восстановления пароля и приведения логина к строчным буквам на сайтах login.qa.studio и pokemonbattle.ru.
 
