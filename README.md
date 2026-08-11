@@ -21,6 +21,18 @@
 [<img src="/certificateQA.png" width="280px" hspace="10px" alt="certificateQA">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/certificateQA.png)
 [<img src="/CertificateQA2.png" width="280px" hspace="10px" alt="CertificateQA2">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/CertificateQA2.png)
 
+**Основные модули:** 
+- Клиент-серверная архитектура (15 ч)
+- Тестирование веб-приложений (12 ч)
+- Тестирование бэкенда (18 ч)
+- Использование снифферов (10 ч)
+- Виды тестирования, техники тест-дизайна (10 ч)
+- Тестовая документация (22 ч)
+- SQL запросы и работа с базами данных (15 ч)
+- Основы HTML и CSS (16 ч)
+- REST и SOAP архитектура (15 ч)
+- Работа с логами (6 ч) 
+
 **Дополнительные модули:**
 - Тестирование мобильных приложений (16 ч)
 - Командная строка Linux (12 ч)
