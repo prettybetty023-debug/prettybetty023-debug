@@ -48,7 +48,7 @@
 [<img src="/internship1.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship1.png)
 [<img src="/internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/prettybetty023-debug/prettybetty023-debug/refs/heads/main/internship2.png)
 
-- Стажировка суммарно составила 112 часов
+**Стажировка суммарно составила 112 часов*
 
 ## 📌 Мои проекты
 
@@ -62,8 +62,8 @@
 Персональный лендинг с контактами. Вёрстка на HTML и CSS.
 
 ### 🌲 [Cypress UI Тесты](https://github.com/prettybetty023-debug/cypress_autotests)
-Автотесты пользовательского интерфейса на JavaScript + Cypress.
-Проверка сценариев авторизации, валидации @ в логине, восстановления пароля и приведения логина к строчным буквам на сайтах login.qa.studio и pokemonbattle.ru.
+Автотесты на UI с помощью JS + Cypress
+**Проверка сценариев авторизации, валидации @ в логине и восстановления пароля*
 
 ---
 
